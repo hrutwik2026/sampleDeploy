@@ -1,9 +1,10 @@
-import React from 'react'
+
+import log from "../assets/post_logo.png"
 
 function Logo({width = '100px'}) {
   return (
-    <div>Logo</div>
-  )
+    <img width="50px" src={log} alt="" />
+  ) 
 }
 
 export default Logo
