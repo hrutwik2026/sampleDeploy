@@ -1,9 +1,9 @@
 
 import log from "../assets/post_logo.png"
 
-function Logo({width = '100px'}) {
+function Logo({width}) {
   return (
-    <img width="50px" src={log} alt="" />
+    <img width={width} src={log} alt="" />
   ) 
 }
 
