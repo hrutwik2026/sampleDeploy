@@ -37,7 +37,7 @@ function Header() {
 
 
   return (
-    <header className='p-1 shadow-2xl bg-gradient-to-r from-slate-900 to-slate-500'>
+    <header className='p-1 shadow-2xl bg-gradient-to-r from-slate-900 to-slate-400'>
     <Container>
       <nav className='flex'>
         <div className='mr-4'>
