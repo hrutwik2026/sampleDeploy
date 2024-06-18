@@ -1,5 +1,5 @@
 
-import log from "../assets/post_logo.png"
+import log from "../assets/NewsLOGO_PAGE.jpg"
 
 function Logo({width}) {
   return (

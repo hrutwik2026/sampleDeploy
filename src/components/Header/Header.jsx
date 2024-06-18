@@ -37,12 +37,12 @@ function Header() {
 
 
   return (
-    <header className='p-1 shadow-2xl  bg-slate-950'>
+    <header className='p-1 shadow-2xl bg-gradient-to-r from-slate-900 to-slate-500'>
     <Container>
       <nav className='flex'>
         <div className='mr-4'>
           <Link to='/'>
-            <Logo width='50px' />
+            <Logo width='75px' />
           </Link>
         </div>
         <ul className='flex ml-auto'>
